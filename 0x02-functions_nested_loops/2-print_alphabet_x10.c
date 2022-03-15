@@ -1,11 +1,7 @@
 #include "main.h"
 
 /**
- * main - entry point
- * Write a function that prints 10 times the alphabet, in lowercase,
- * followed by a new line
- *Prototype: void print_alphabet_x10(void)
- *Return: 0 (Success)
+ * print_alphabet_x10 - print 10x the alphabet in lowercase
  */
 
 void print_alphabet_x10(void)
