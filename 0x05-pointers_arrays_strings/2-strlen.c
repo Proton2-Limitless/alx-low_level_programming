@@ -3,6 +3,7 @@
 /**
  * _strlen - convert strings to length
  * @s:parameter to be converted
+ * Return: length of a given string
  */
 
 int _strlen(char *s)
