@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - contains the argv parameter
+ * main - a program that prints its name
  * @argc: size of argv
  * @argv: array of strings
- * Return: Always 0;
+ * Return: Always 0(Successs);
  */
 
 int main(int argc, char *argv[])
