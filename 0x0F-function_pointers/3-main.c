@@ -40,5 +40,4 @@ int main(int arc, char *arg[])
 	operate = get_op_func(arg[2]);
 	printf("%d\n", operate(num1, num2));
 	return (0);
-
 }
