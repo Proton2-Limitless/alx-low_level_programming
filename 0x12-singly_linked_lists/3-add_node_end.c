@@ -42,7 +42,7 @@ void *_strdup(const char *src)
  */
 list_t *add_node_end(list_t **head, const char *str)
 {
-	list_t *current, *new;
+	list_t *new, *current;
 	char *dupstr;
 
 	if (str == NULL)
